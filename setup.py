@@ -12,7 +12,7 @@ DESCRIPTION = 'Streaming video data via networks'
 
 # Setting up
 setup(
-    name="vidstream",
+    name="levenshtein-distance",
     version=VERSION,
     author="Camille Lavigne",
     author_email="",
